@@ -1,4 +1,4 @@
-## Sup, i am FalidoVitor
+## Sup, i am Vitor Pinheiro
  <div>
   <a href="https://github.com/FalidoVitor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalidoVitor&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
