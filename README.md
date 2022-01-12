@@ -14,7 +14,6 @@
   <img align="center" alt="Falido-Lua" height="30" width="60" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img align="center" alt="Falido-MySql" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Falido-AWS" height="30" width="80" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Falido-Oficce" height="30" width="80" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft office&logoColor=white">
   <img align="center" alt="Falido-PS" height="30" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Falido-IL" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
   <img align="center" alt="FalidoPREMI-" height="30" width="80" src="https://aleen42.github.io/badges/src/premiere.svg">
