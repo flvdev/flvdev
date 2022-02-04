@@ -8,16 +8,13 @@
   <img align="center" alt="Falido-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Falido-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Falido-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Falido-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Falido-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Falido-Vue" height="30" wdth="40" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align="center" alt="Falido-Lua" height="30" width="60" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
   <img align="center" alt="Falido-MySql" height="30" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Falido-AWS" height="30" width="80" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Falido-PS" height="30" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <img align="center" alt="Falido-IL" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img align="center" alt="FalidoPREMI-" height="30" width="80" src="https://aleen42.github.io/badges/src/premiere.svg">
-  <img align="right" alt="Falido-Ohana"height="160" width="160" src="https://media.discordapp.net/attachments/851689422412054548/898540827536666624/Falido.png">
+  <img align="center" alt="Falido-PS" height="30" width="85" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="FalidoFigma-" height="35" width="35" src="https://img.icons8.com/color/48/000000/figma--v1.png">
+  <img align="right" alt="Falido-Ohana"height="160" width="135" src="https://media.discordapp.net/attachments/851689422412054548/898540827536666624/Falido.png">
 </div>
   
   ##
