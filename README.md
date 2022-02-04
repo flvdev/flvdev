@@ -17,7 +17,7 @@
   <img align="center" alt="Falido-PS" height="30" width="80" src="https://aleen42.github.io/badges/src/photoshop.svg">
   <img align="center" alt="Falido-IL" height="30" width="80" src="https://aleen42.github.io/badges/src/illustrator.svg">
   <img align="center" alt="FalidoPREMI-" height="30" width="80" src="https://aleen42.github.io/badges/src/premiere.svg">
-  <img align="right" alt="Falido-Ohana"height="160" width="160" src="https://media.discordapp.net/attachments/752280713537257593/797007215260467200/120.png">
+  <img align="right" alt="Falido-Ohana"height="160" width="160" src="https://media.discordapp.net/attachments/851689422412054548/898540827536666624/Falido.png">
 </div>
   
   ##
