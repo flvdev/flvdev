@@ -1,7 +1,7 @@
 ## Sup, i am Vitor Pinheiro
  <div>
-  <a href="https://github.com/FalidoVitor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FalidoVitor&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/flvdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flvdev&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Falido-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +19,7 @@
 <div>
   <a href="https://discord.link/falidostore" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRwQMDNfwhcrCCSZptmvZwtzKbVSlfkkMCPLwrChpXCLfVmNDvKGFMhFlzgmgJnrSxnJlZlX"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-pinheiro-127628218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vpldev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
 </div>
