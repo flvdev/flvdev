@@ -3,6 +3,11 @@
   <a href="https://github.com/flvdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flvdev&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
 </div>
+
+<h3 align="Center">Discord:</h3>
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/207574486164176896)](https://discord.com/users/207574486164176896)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Falido-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Falido-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
