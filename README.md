@@ -1,5 +1,6 @@
 ## Sup, i am Vitor Luiz
  <div>
+  <h3 align="Center">Git Stats:</h3>
   <a href="https://github.com/flvdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flvdev&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
 </div>
