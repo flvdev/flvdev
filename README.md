@@ -1,4 +1,3 @@
-<a name="readme-top"></a>
 ## VPLdev - Vitor Pinheiro Luiz
 
 ![Logo](https://media.discordapp.net/attachments/851689422412054548/898540827536666624/Falido.png)
@@ -28,5 +27,4 @@ This profile is distributed under the BPc License. Crazy people work there!
 ---
 
 [Back to Top](#readme-top)
-
 
