@@ -26,5 +26,3 @@ This profile is distributed under the BPc License. Crazy people work there!
 
 ---
 
-[Back to Top](#readme-top)
-
