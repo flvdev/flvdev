@@ -22,7 +22,7 @@ Check out my projects on my [website](https://blueprintco.shop).
 
 ## License
 
-This project is distributed under the BPc License. Crazy people work there!
+This profile is distributed under the BPc License. Crazy people work there!
 
 ---
 
