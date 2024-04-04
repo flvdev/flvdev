@@ -1,6 +1,6 @@
 ## VPLdev - Vitor Luiz
 
-![Logo](https://media.discordapp.net/attachments/1082102658833326140/1225281275775160330/VPL-blue-.png)
+![Logo](https://media.discordapp.net/attachments/1082102658833326140/1225282444937265153/VPL-blue-.png?ex=66209033&is=660e1b33&hm=26547291f43fc1c13e37ad655bfc90f2bcad5b428221330218286cda2c6b6a35&=&format=webp&quality=lossless&width=151&height=151)
 
 ## Introduction
 
