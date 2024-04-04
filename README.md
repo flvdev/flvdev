@@ -1,10 +1,10 @@
-## VPLdev - Vitor Pinheiro Luiz
+## VPLdev - Vitor Luiz
 
-![Logo](https://media.discordapp.net/attachments/851689422412054548/898540827536666624/Falido.png)
+![Logo](https://media.discordapp.net/attachments/1082102658833326140/1225281275775160330/VPL-blue-.png)
 
 ## Introduction
 
-Welcome to the VPLdev repository! This is where i work on my private projects. Feel free to explore and see nothing.
+Welcome to the VPLdev repository! This is where i work on my private personal projects. Feel free to explore and see nothing public.
 
 ## Projects
 
