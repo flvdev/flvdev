@@ -4,11 +4,11 @@
 
 ## Introduction
 
-Welcome to my GitHub Profile! This is where i work on my private personal projects. Feel free to explore and see nothing public.
+Welcome to my GitHub Profile! This is where i work on my private personal projects.
 
 ## Projects
 
-Check out my not published [website](https://vitorluiz.cloud).
+Check out my not published [website](https://vpldev.tech).
 
 
  <div>
