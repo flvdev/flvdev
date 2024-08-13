@@ -1,6 +1,6 @@
 ## Vitor "vpldev" Luiz
 
-![Logo](https://media.discordapp.net/attachments/1237059222827696279/1254947508153614366/asset.png?ex=667b5871&is=667a06f1&hm=018872707a810714c5dac66cee3d67dcb08125c8371753ebe74276cfd5561b5d&=&format=webp&quality=lossless&width=115&height=110)
+![Logo](.github/workflows/asset.png)
 
 ## Introduction
 
