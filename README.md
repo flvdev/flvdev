@@ -4,9 +4,9 @@
 
 ## Introduction
 
-I have developed several projects and services that impacted approximately 85,000 users in over 9 countries.
+Welcome to my personal GitHub Profile! This is where i work on my private projects.
 
-Welcome to my GitHub Profile! This is where i work on my private personal projects.
+I have developed several projects and services that impacted approximately 85,000 users in over 9 countries.
 
 ## Projects
 
