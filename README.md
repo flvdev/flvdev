@@ -13,10 +13,10 @@ I have developed several projects and services that impacted approximately 85,00
 Check out my not published [website](https://vpldev.tech).
 
 
- <div>
+<!-- <div>
   <h3 align="Left">Git Stats:</h3>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flvdev&show_icons=true&theme=radic5al&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
 
 <h3 align="Left">Discord Profile:</h3>
 
